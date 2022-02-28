@@ -18,7 +18,7 @@
     <ClCompile Include="day01.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="sum.c">
+    <ClCompile Include="blanket.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="day02.c">
@@ -28,6 +28,30 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="day04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day05.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day06.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day07.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day08.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day09.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day11.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="day12.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
